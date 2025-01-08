@@ -28,8 +28,8 @@ Skills
   * [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/), [VMD](https://www.ks.uiuc.edu/Research/vmd/), [VESTA](https://jp-minerals.org/vesta/en/)
 
 * Hardware/Software Maintenance
-  * Server Hardware Assembly of CPU/GPU Servers
-  * Linux System (Ubuntu, CentOS)Installation, Configuration, and Maintenance
+  * Hardware Assembly of CPU/GPU Servers
+  * Linux System(Ubuntu, CentOS) Installation, Configuration, and Maintenance
   * Compilation of Scientific Software Packages such as VASP, Quantum ESPRESSO, CP2K, GROMACS, and LAMMPS
   * Installation and Management of SLURM (Simple Linux Utility for Resource Management)
 
@@ -53,9 +53,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
