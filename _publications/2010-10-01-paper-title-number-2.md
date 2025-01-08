@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "First-principle investigation of the charge injection barriers of polyethylene and polytetrafluoroethylene oligomers"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
