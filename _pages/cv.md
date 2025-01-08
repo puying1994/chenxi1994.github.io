@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, Nanyang Technological University, 2025 (expected)
+* Ph.D in Materials Science, Nanyang Technological University, 2025 (expected)
 * M.Eng. in Electrical Engineering, Xi'an Jiaotong University, 2020
 * B.Eng. in Electrical Engineering and Automation, Chongqing University, 2017
 
