@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Version Control Theory, Nanyang Technological University, 2025 (expected)
-* M.E. in Electrical Engineering, Xi'an Jiaotong University, 2020
-* B.E. in Electrical Engineering and Automation, Chongqing University, 2017
+* M.Eng. in Electrical Engineering, Xi'an Jiaotong University, 2020
+* B.Eng. in Electrical Engineering and Automation, Chongqing University, 2017
 
 Skills
 ======
@@ -39,7 +39,7 @@ Work experience
 * 2023-2024 Teaching Assistant
   * Probability Theory part from the course of Quality Control, School of Materials Science and Engineering, Nanyang Technological University
   * Duties includes:
-    * Assisted in teaching undergraduate courses ranging in size around 80 students.Topics included: Probability Theory.
+    * Assisted in teaching undergraduate courses ranging in size around 80 students.Topics include Probability Theory.
     * Prepared course material including, exams, homework
     * Supervised students, graded exams and weekly homework
 
