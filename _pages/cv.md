@@ -24,7 +24,7 @@ Skills
 
 * Simulation packages 
   * [Gromacs](https://www.gromacs.org/), [OpenMM](https://openmm.org/), [LAMMPS](https://www.lammps.org)
-  * VASP](https://www.vasp.at/), [Quantum Espresso](https://www.quantum-espresso.org/), [CP2K](https://www.cp2k.org/), Material Studio
+  * [VASP](https://www.vasp.at/), [Quantum Espresso](https://www.quantum-espresso.org/), [CP2K](https://www.cp2k.org/), Material Studio
   * [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/), [VMD](https://www.ks.uiuc.edu/Research/vmd/), [VESTA](https://jp-minerals.org/vesta/en/)
 
 * Hardware/Software Maintenance
