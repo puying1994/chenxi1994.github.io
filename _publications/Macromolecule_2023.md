@@ -3,7 +3,7 @@ title: "Origins of Charge Mobility Decreasing from Stretching–Releasing Cycles
 collection: publications
 category: manuscripts
 permalink: /publication/Macromolecule_2023
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper, we elucidate the mechanism behind the decrease in charge mobility caused by stretching-releasing cycles in polymer semiconductors.'
 date: 2023-08-18
 venue: 'Macromolecules'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
