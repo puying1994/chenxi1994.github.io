@@ -6,7 +6,6 @@ permalink: /publication/Macromolecule_2023
 excerpt: 'In this paper, we elucidate the mechanism behind the decrease in charge mobility caused by stretching-releasing cycles in polymer semiconductors.'
 date: 2023-08-18
 venue: 'Macromolecules'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://puying1994.github.io/files/Macromolecule_2023.pdf'
 citation: 'Chen, X. et al. Origins of Charge Mobility Decreasing from Stretching–Releasing Cycles in Polymer Semiconductors. Macromolecules 2023, 56 (17), 7078–7085. https://doi.org/10.1021/acs.macromol.3c01071.'
 ---
