@@ -35,7 +35,15 @@ Skills
 
 Work experience
 ======
-* Fall 2020: Assistant Engineer
+
+* 2023-2024 Teaching Assistant
+  * Probability Theory part from the course of Quality Control, School of Materials Science and Engineering, Nanyang Technological University
+  * Duties includes:
+    * Assisted in teaching undergraduate courses ranging in size around 80 students.Topics included: Probability Theory.
+    * Prepared course material including, exams, homework
+    * Supervised students, graded exams and weekly homework
+
+* 2020-2021: Assistant Engineer
   * State Grid Jiangsu Electric Power Co.,LTD.
   * Duties includes: Power transformer maintenance
 
