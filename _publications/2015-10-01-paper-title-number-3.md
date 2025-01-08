@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "First-principles investigation of band offset and charge transfer characteristics at the PE/fluorinated layer interface"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
