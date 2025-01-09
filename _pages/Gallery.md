@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-![jap_cover](images/jap_cover.jpeg "Academic Pages template example")
+![jap_cover](images/jap_cover.jpeg "jap_cover")
 
-![pccp_cover](images/pccp_cover.png "Academic Pages template example")
+![pccp_cover](images/pccp_cover.png "pccp_cover")
