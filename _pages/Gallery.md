@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-![jap_cover](https://github.com/puying1994/puying1994.github.io/blob/master/images/jap_cover.jpeg)
+![jap_cover](images/jap_cover.jpeg "Academic Pages template example")
 
-![pccp_cover](https://github.com/puying1994/puying1994.github.io/blob/master/images/pccp_cover.png)
+![pccp_cover](images/pccp_cover.png "Academic Pages template example")
