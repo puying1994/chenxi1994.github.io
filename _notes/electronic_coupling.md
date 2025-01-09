@@ -1,7 +1,11 @@
 ---
 title: "Electronic Coupling Calculation"
 collection: notes
+type: "Undergraduate course"
+venue: "University 1, Department"
 permalink: /notes/electronic_coupling
+date: 2024-03-01
+location: "Singapore"
 excerpt: "Calculation procedure of electronic coupling from the output of gaussian"
 
 ---
