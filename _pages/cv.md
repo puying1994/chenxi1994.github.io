@@ -24,15 +24,16 @@ Skills
 
 * Simulation packages (with varying degrees of usage)
   * [Gromacs](https://www.gromacs.org/), [OpenMM](https://openmm.org/), [LAMMPS](https://www.lammps.org)
-  * [Gaussian](https://gaussian.com/), [ORCA](https://www.faccts.de/orca/), [PySCF](https://pyscf.org/)
+  * [Gaussian](https://gaussian.com/), [ORCA](https://www.faccts.de/orca/), [PySCF](https://pyscf.org/), [Multiwfn](http://sobereva.com/multiwfn/)
   * [VASP](https://www.vasp.at/), [Quantum Espresso](https://www.quantum-espresso.org/), [CP2K](https://www.cp2k.org/), Material Studio
   * [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/), [VMD](https://www.ks.uiuc.edu/Research/vmd/), [VESTA](https://jp-minerals.org/vesta/en/)
 
 * Hardware/Software Maintenance
-  * Hardware Assembly of CPU/GPU Servers
-  * Linux System(Ubuntu, CentOS) Installation, Configuration, and Maintenance
-  * Compilation of Scientific Software Packages such as VASP, Quantum ESPRESSO, CP2K, GROMACS, and LAMMPS
-  * Installation and Management of SLURM (Simple Linux Utility for Resource Management)
+  * Hardware Assembly for CPU/GPU Servers
+  * Deployment and Maintenance of NAS Devices and their Network Services
+  * Linux System Installation, Configuration, and Maintenance (Ubuntu, CentOS)
+  * Compilation of Scientific Software Packages, including VASP, Quantum ESPRESSO, CP2K, GROMACS, and LAMMPS
+  * Installation and Management of SLURM (Simple Linux Utility for Resource Management) System
 
 Work experience
 ======
