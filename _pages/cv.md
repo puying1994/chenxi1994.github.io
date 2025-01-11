@@ -20,9 +20,9 @@ Skills
 * Programs Skills
   * Programming Languages: Python, Julia, Bash
   * Operating System: Linux, Windows
-  * Machine Learning: Tensorflow
+  * Machine Learning: Pytorch
 
-* Simulation packages 
+* Simulation packages (with varying degrees of usage)
   * [Gromacs](https://www.gromacs.org/), [OpenMM](https://openmm.org/), [LAMMPS](https://www.lammps.org)
   * [Gaussian](https://gaussian.com/), [ORCA](https://www.faccts.de/orca/), [PySCF](https://pyscf.org/)
   * [VASP](https://www.vasp.at/), [Quantum Espresso](https://www.quantum-espresso.org/), [CP2K](https://www.cp2k.org/), Material Studio
@@ -40,9 +40,9 @@ Work experience
 * 2023-2024 Teaching Assistant
   * Probability Theory part from the course of Quality Control, School of Materials Science and Engineering, Nanyang Technological University
   * Duties includes:
-    * Assisted in teaching undergraduate courses ranging in size around 80 students.Topics include Probability Theory.
-    * Prepared course material including, exams, homework
-    * Supervised students, graded exams and weekly homework
+    * Assisted in teaching undergraduate courses with class sizes of approximately 80 students. Topics included Probability Theory.
+    * Prepared course materials and resources to support student learning.
+    * Supervised students, conducted classes on weekly homework assignments, and graded exams.
 
 * 2020-2021: Assistant Engineer
   * State Grid Jiangsu Electric Power Co.,LTD.
